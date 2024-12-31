@@ -1,7 +1,6 @@
 #!/bin/python3
 import subprocess
 import os
-from tqdm import tqdm
 
 
 def update_file(filename: str) -> None:
